@@ -1,0 +1,171 @@
+.alemanha{
+    height: 250px;
+    width: 350px;
+    float: left;
+    
+}
+.vermelho{
+background-color: red;
+height: 33%;
+}
+.preto{
+    background-color: black;
+    height: 34%;
+}
+.amarelo{
+    background-color: yellow;
+    height: 33%;
+}
+
+p{
+    text-align: center;
+    font-size: 15pt;
+}
+
+.suecia{
+    background-color: yellow;
+    height: 250px;
+    width: 350px;
+    float: left;
+    margin-left: 10px;
+    
+}
+.suecia p{
+    text-align: center;
+}
+.SueciaAzul2{
+    background-color:  rgb(0,89,142);
+    height: 40%;
+    width: 30%;       
+}
+
+.SueciaAzul{   
+    background-color:  rgb(0,89,142);
+    height: 40%;
+    width: 30%; 
+    margin-top: 43%;
+    float: left;
+      
+}
+
+.SueciaAzul3{
+    background-color:  rgb(0,89,142);
+    height: 40%;
+    width: 55%;   
+    float: right;   
+}
+
+.SueciaAzul4{
+    background-color:  rgb(0,89,142);
+    height: 40%;
+    width: 55%; 
+    margin-top: 14.5%; 
+    float: right;
+}
+
+.argentina{
+    background: rgb(116, 172, 223);
+    height: 250px;
+    width: 350px;
+    float: left;
+    margin-left: 10px;
+    
+}
+
+.branco{
+    background-color: white;
+    height: 35%;
+    margin-top: 23%;
+    
+}
+
+.imagem{
+    height: 75px;   
+}
+
+.uruguai{
+    height: 250px;
+    width: 350px;
+    float: left;
+    background-color: rgb(2, 2, 255);
+    margin-left: 10px;
+}
+.parte1{
+    background-color: white;
+    height: 11%;
+    width: 65.7%;
+    margin-top: 0%;
+    float: right;
+}
+body{
+    background-color: bisque;
+}
+.parte2{
+    background-color: white;
+    height: 11%;
+    width: 65.7%;
+    margin-top: 8%;
+    float: right;
+}
+.parte3{
+    background-color: white;
+    height: 11%;
+    width: 100%;
+    float: right;
+}
+.parte4{
+    background-color: white;
+    height: 11%;
+    width: 100%;
+    margin-top: 8%;
+    float: right;
+}
+
+.parte5{
+    background-color: white;
+    height: 12%;
+    width: 100%;
+    margin-top: 8%;
+    float: left;
+}
+.quadrado{
+    height: 110px;
+    width: 120px;
+    background-color: white;
+    float: left;
+}
+
+.quadrado img{
+    height: 100px;
+    margin-top: 20px;
+    margin-left: 10px;
+    position: relative;
+}
+
+.chile{
+    height: 250px;
+    width: 350px;
+    float: left;
+    background-color: white;
+    margin-top: 75px;
+  
+}
+.vermelhoChile{
+    height: 50%;
+    width: 100%;
+    background-color: red;
+    margin-top: 36%;
+}
+.quadradoChile{
+    height: 50.5%;
+    width: 35%;
+    background-color: blue;
+    float: left;
+}
+
+.quadradoChile img{
+    height: 50px;
+    margin-top: 35px;
+    margin-left: 35px;
+
+}
